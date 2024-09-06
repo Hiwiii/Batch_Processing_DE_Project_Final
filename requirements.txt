@@ -1,0 +1,8 @@
+werkzeug
+pyspark==3.2.1
+SQLAlchemy
+Flask
+psycopg2
+hdfs
+apache-airflow-providers-apache-hdfs
+
